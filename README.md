@@ -25,3 +25,6 @@ Edit the income values and the `cats` list in `budget_tracker.py`, then run it a
 
 ## Sample data
 The default numbers model a starting computer programmer in San Diego ($125,000/year). They're example figures, not real personal data.
+
+**Replace with your own data! Do not start using the tracker with the sample data!**
+It is vital that you remove all of the sample data added into the tracker. These numbers are just estimated figures. If you keep them, it might mess up your data and the tracker won't be able to accurately track your budget because it has the wrong data.
