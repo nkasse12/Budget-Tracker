@@ -1,6 +1,10 @@
 # Budget Tracker
 
-A Python script that builds a personal budgeting spreadsheet in Excel, based on concepts from my Introduction to Finance 1 class.
+A Python script that builds a personal budgeting spreadsheet in Excel. 
+- Creates an organizes system for financial budgeting
+- Operates on a monthly basis(tracks expenses for one month)
+- Requires manual input of transactions and expenses
+- Useful for tracking purchases/transactions, keeping track of expenses, and estimating how much money you will have leftover at the end of the month. 
 
 ## What it creates
 - **Dashboard:** budgeted vs. actual spending for any month, with a chart and red highlights when a category goes over budget
